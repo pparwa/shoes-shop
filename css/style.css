@@ -1,0 +1,29 @@
+.header{
+    height: 20%;
+    width: 100%;
+}
+body{
+    width: 100%;
+    height: 100vh;
+}
+img{
+    height: 200px;
+    width: 100%;
+}
+.size{
+    height: 60%;
+    width: 80%;
+}
+
+p{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    margin: 0px;
+    padding: 0px;
+}
+h5{
+    margin: 0px;
+    padding: 0px;
+}

@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 40%;
+    height: 300px;
+    
+}
+.header{
+    height: 20%;
+    width: 100%;
+}
+div{
+    margin: 0px;
+    padding: 0px;
+}
+pre{
+    margin: 0px;
+    padding: 0px;
+}
+button{
+    width: 10%;
+    height: 70px;
+}
